@@ -1,0 +1,26 @@
+_repo: Whiffet-Squirrel_23522
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Greene, Julia
+    gutenberg_agent_id: '9693'
+    url: http://www.gutenberg.org/2009/agents/9693
+description: Father and mother squirrel go looking for a home for their children.
+  They find a good home in an abandoned birdhouse. After they move in, the baby squirrels
+  steal doll clothes from the litttle girl who lives next to the tree.
+gutenberg_issued: '2007-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23522'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Squirrels -- Juvenile fiction'
+- !lcc 'PZ'
+title: Whiffet Squirrel
+url: http://www.gutenberg.org/ebooks/23522
